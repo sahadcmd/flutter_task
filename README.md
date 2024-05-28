@@ -17,6 +17,11 @@ This project is part of a Flutter task.
 * `Dart`
 * `Flutter`
 
+## How it looks 📷
+
+<div align="center">
+    <img src="./assets/Screenshot.png">
+</div>
 
 <hr>
 
